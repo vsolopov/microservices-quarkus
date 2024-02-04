@@ -41,8 +41,6 @@ nb-configuration.xml
 
 # Plugin directory
 /.quarkus/cli/plugins/
-Dockerfile.jvm
-docker/
 /rest-book/mvnw
 /rest-book/mvnw.cmd
 /rest-number/mvnw.cmd
